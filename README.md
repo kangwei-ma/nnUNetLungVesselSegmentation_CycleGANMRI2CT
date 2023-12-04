@@ -14,3 +14,5 @@ Project 2 - Lung Vessel Segmentation using nnUNet (Sep - Nov 2023)
   generate_dataset_json.py
   move_files_to_destination.py
   renaming_data_format_nnUNet.py
+
+More details are explained in the final report shared in Google Drive together with data input & output.
