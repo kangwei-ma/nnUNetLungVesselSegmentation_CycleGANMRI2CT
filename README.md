@@ -16,3 +16,9 @@ Project 2 - Lung Vessel Segmentation using nnUNet (Sep - Nov 2023)
   renaming_data_format_nnUNet.py
 
 More details are explained in the final report shared in Google Drive together with data input & output.
+
+nnUNet project drive link:
+https://drive.google.com/drive/folders/1MRVt_Vtft4Pv_nXm7vXq6iFHPsDFbEeX?usp=sharing
+
+CycleGAN project drive link:
+https://drive.google.com/drive/folders/1N81F85f5NB67D6LlYXGQ3heO-Dyk9_UN?usp=sharing
